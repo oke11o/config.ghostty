@@ -11,3 +11,4 @@ font-family = FiraCodeRegular
 shell-integration = zsh
 #macos-titlebar-style = hidden
 #macos-option-as-alt = true
+keybind = shift+enter=text:\n
